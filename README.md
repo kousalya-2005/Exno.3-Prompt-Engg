@@ -1,5 +1,5 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques                                                                            
-### REGISTER NUMBER : 212222230105
+### REGISTER NUMBER : 212222230068
 ## Aim:
 To design an AI-powered chatbot that assists users in managing stress, anxiety, and emotional well-being. The chatbot should handle various mental health concerns in a friendly and non-judgmental manner, using multiple prompting techniques to guide its responses.
 
